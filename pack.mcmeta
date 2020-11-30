@@ -1,0 +1,15 @@
+{
+    "pack": {
+        "pack_format": 6,
+        "description": "§e傻逼语言包！！！\n§3Release vo.w.o"
+    },
+    "language": {
+        "zh_meme": {
+            "name": "§e不讲武德§r",
+            "region": "§o马保国§r",
+            "bidirectional": "false"
+        }
+    },
+    "home": "https://github.com/PhiTea/NQR-BJWD",
+    "copyright": "草。"
+}
